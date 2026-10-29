@@ -1,0 +1,8 @@
+{
+  "name": "QuickLoan UG — Mobile Loan Manager",
+  "description": "Mobile-format microfinance loan management app for Ugandan Shillings (UGX) portfolio tracking, borrower communication, installment logging, and disbursement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
